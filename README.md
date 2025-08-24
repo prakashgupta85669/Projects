@@ -1,2 +1,2 @@
 # Project
-Project Name : MediLocator – Smart Medicine Finder
+Project Name : MedicalLocator – Smart Medicine Finder
